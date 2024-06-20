@@ -1,13 +1,16 @@
 using Microsoft.AspNetCore.Mvc;
-namespace TantaJudge.Controllers{
-    public class LoginController : Controller{
+namespace TantaJudge.Controllers
+{
+    public class LoginController : Controller
+    {
         MyContext _context;
         public LoginController(MyContext context)
         {
             //inyeccion de dependencias
             this._context = context;
         }
-        public IActionResult Index(){
+        public IActionResult Index()
+        {
             return View();
         }
 
@@ -35,5 +38,5 @@ namespace TantaJudge.Controllers{
         {
             return RedirectToAction("Index", "Login");
         }
-     }
+    }
 }

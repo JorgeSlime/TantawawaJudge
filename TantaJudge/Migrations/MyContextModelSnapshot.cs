@@ -14,7 +14,7 @@ namespace TantaJudge.Migrations
         protected override void BuildModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
-            modelBuilder.HasAnnotation("ProductVersion", "8.0.5");
+            modelBuilder.HasAnnotation("ProductVersion", "8.0.6");
 
             modelBuilder.Entity("Comentario", b =>
                 {
@@ -112,9 +112,8 @@ namespace TantaJudge.Migrations
                     b.Property<string>("Password")
                         .HasColumnType("TEXT");
 
-                    b.Property<string>("ROL")
-                        .IsRequired()
-                        .HasColumnType("TEXT");
+                    b.Property<int>("Rol")
+                        .HasColumnType("INTEGER");
 
                     b.HasKey("UsuarioId");
 

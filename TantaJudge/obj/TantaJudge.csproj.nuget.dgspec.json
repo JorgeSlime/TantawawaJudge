@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/jorge/Documentos/FILE/SEMESTRE_1_2024/AC_TEC/Proyecto/Tantawawa-Judge/TantaJudge/TantaJudge.csproj": {}
+    "C:\\Users\\jairo\\Documents\\Proyecto\\TantawawaJudge\\TantaJudge\\TantaJudge.csproj": {}
   },
   "projects": {
-    "/home/jorge/Documentos/FILE/SEMESTRE_1_2024/AC_TEC/Proyecto/Tantawawa-Judge/TantaJudge/TantaJudge.csproj": {
+    "C:\\Users\\jairo\\Documents\\Proyecto\\TantawawaJudge\\TantaJudge\\TantaJudge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jorge/Documentos/FILE/SEMESTRE_1_2024/AC_TEC/Proyecto/Tantawawa-Judge/TantaJudge/TantaJudge.csproj",
+        "projectUniqueName": "C:\\Users\\jairo\\Documents\\Proyecto\\TantawawaJudge\\TantaJudge\\TantaJudge.csproj",
         "projectName": "TantaJudge",
-        "projectPath": "/home/jorge/Documentos/FILE/SEMESTRE_1_2024/AC_TEC/Proyecto/Tantawawa-Judge/TantaJudge/TantaJudge.csproj",
-        "packagesPath": "/home/jorge/.nuget/packages/",
-        "outputPath": "/home/jorge/Documentos/FILE/SEMESTRE_1_2024/AC_TEC/Proyecto/Tantawawa-Judge/TantaJudge/obj/",
+        "projectPath": "C:\\Users\\jairo\\Documents\\Proyecto\\TantawawaJudge\\TantaJudge\\TantaJudge.csproj",
+        "packagesPath": "C:\\Users\\jairo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jairo\\Documents\\Proyecto\\TantawawaJudge\\TantaJudge\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/jorge/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\jairo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -47,17 +49,21 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.5, )"
+              "version": "[8.0.6, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[8.0.5, )"
+              "version": "[8.0.6, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.5, )"
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.2, )"
             }
           },
           "imports": [
@@ -79,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/opt/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
