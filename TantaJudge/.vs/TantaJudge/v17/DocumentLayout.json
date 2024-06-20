@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jairo\\Documents\\Proyecto\\TantawawaJudge\\TantaJudge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D67960-E613-4E83-BDCF-86EDC8C54510}|TantaJudge.csproj|c:\\users\\jairo\\documents\\proyecto\\tantawawajudge\\tantajudge\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0D67960-E613-4E83-BDCF-86EDC8C54510}|TantaJudge.csproj|solutionrelative:views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D67960-E613-4E83-BDCF-86EDC8C54510}|TantaJudge.csproj|c:\\users\\jairo\\documents\\proyecto\\tantawawajudge\\tantajudge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D67960-E613-4E83-BDCF-86EDC8C54510}|TantaJudge.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D67960-E613-4E83-BDCF-86EDC8C54510}|TantaJudge.csproj|c:\\users\\jairo\\documents\\proyecto\\tantawawajudge\\tantajudge\\views\\usuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0D67960-E613-4E83-BDCF-86EDC8C54510}|TantaJudge.csproj|solutionrelative:views\\usuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D67960-E613-4E83-BDCF-86EDC8C54510}|TantaJudge.csproj|c:\\users\\jairo\\documents\\proyecto\\tantawawajudge\\tantajudge\\views\\usuarios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0D67960-E613-4E83-BDCF-86EDC8C54510}|TantaJudge.csproj|solutionrelative:views\\usuarios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D67960-E613-4E83-BDCF-86EDC8C54510}|TantaJudge.csproj|c:\\users\\jairo\\documents\\proyecto\\tantawawajudge\\tantajudge\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D67960-E613-4E83-BDCF-86EDC8C54510}|TantaJudge.csproj|solutionrelative:controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D67960-E613-4E83-BDCF-86EDC8C54510}|TantaJudge.csproj|c:\\users\\jairo\\documents\\proyecto\\tantawawajudge\\tantajudge\\migrations\\20240620040028_creacionmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D67960-E613-4E83-BDCF-86EDC8C54510}|TantaJudge.csproj|solutionrelative:migrations\\20240620040028_creacionmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D67960-E613-4E83-BDCF-86EDC8C54510}|TantaJudge.csproj|c:\\users\\jairo\\documents\\proyecto\\tantawawajudge\\tantajudge\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D67960-E613-4E83-BDCF-86EDC8C54510}|TantaJudge.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D67960-E613-4E83-BDCF-86EDC8C54510}|TantaJudge.csproj|c:\\users\\jairo\\documents\\proyecto\\tantawawajudge\\tantajudge\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0D67960-E613-4E83-BDCF-86EDC8C54510}|TantaJudge.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D67960-E613-4E83-BDCF-86EDC8C54510}|TantaJudge.csproj|c:\\users\\jairo\\documents\\proyecto\\tantawawajudge\\tantajudge\\contexto\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D67960-E613-4E83-BDCF-86EDC8C54510}|TantaJudge.csproj|solutionrelative:contexto\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D67960-E613-4E83-BDCF-86EDC8C54510}|TantaJudge.csproj|c:\\users\\jairo\\documents\\proyecto\\tantawawajudge\\tantajudge\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D67960-E613-4E83-BDCF-86EDC8C54510}|TantaJudge.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\jairo\\Documents\\Proyecto\\TantawawaJudge\\TantaJudge\\Views\\Usuarios\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Usuarios\\Create.cshtml",
+              "ToolTip": "C:\\Users\\jairo\\Documents\\Proyecto\\TantawawaJudge\\TantaJudge\\Views\\Usuarios\\Create.cshtml",
+              "RelativeToolTip": "Views\\Usuarios\\Create.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T04:39:40.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jairo\\Documents\\Proyecto\\TantawawaJudge\\TantaJudge\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\jairo\\Documents\\Proyecto\\TantawawaJudge\\TantaJudge\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T04:25:06.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jairo\\Documents\\Proyecto\\TantawawaJudge\\TantaJudge\\Views\\Usuarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Usuarios\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jairo\\Documents\\Proyecto\\TantawawaJudge\\TantaJudge\\Views\\Usuarios\\Index.cshtml",
+              "RelativeToolTip": "Views\\Usuarios\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T04:16:27.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\jairo\\Documents\\Proyecto\\TantawawaJudge\\TantaJudge\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\jairo\\Documents\\Proyecto\\TantawawaJudge\\TantaJudge\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T04:13:39.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240620040028_CreacionMod.cs",
+              "DocumentMoniker": "C:\\Users\\jairo\\Documents\\Proyecto\\TantawawaJudge\\TantaJudge\\Migrations\\20240620040028_CreacionMod.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240620040028_CreacionMod.cs",
+              "ToolTip": "C:\\Users\\jairo\\Documents\\Proyecto\\TantawawaJudge\\TantaJudge\\Migrations\\20240620040028_CreacionMod.cs",
+              "RelativeToolTip": "Migrations\\20240620040028_CreacionMod.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T04:00:29.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\jairo\\Documents\\Proyecto\\TantawawaJudge\\TantaJudge\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\jairo\\Documents\\Proyecto\\TantawawaJudge\\TantaJudge\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T03:43:11.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jairo\\Documents\\Proyecto\\TantawawaJudge\\TantaJudge\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jairo\\Documents\\Proyecto\\TantawawaJudge\\TantaJudge\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T03:10:49.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\jairo\\Documents\\Proyecto\\TantawawaJudge\\TantaJudge\\Views\\Usuarios\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Usuarios\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\jairo\\Documents\\Proyecto\\TantawawaJudge\\TantaJudge\\Views\\Usuarios\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Usuarios\\Edit.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T04:57:44.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyContext.cs",
+              "DocumentMoniker": "C:\\Users\\jairo\\Documents\\Proyecto\\TantawawaJudge\\TantaJudge\\Contexto\\MyContext.cs",
+              "RelativeDocumentMoniker": "Contexto\\MyContext.cs",
+              "ToolTip": "C:\\Users\\jairo\\Documents\\Proyecto\\TantawawaJudge\\TantaJudge\\Contexto\\MyContext.cs",
+              "RelativeToolTip": "Contexto\\MyContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T03:56:56.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\jairo\\Documents\\Proyecto\\TantawawaJudge\\TantaJudge\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\jairo\\Documents\\Proyecto\\TantawawaJudge\\TantaJudge\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T02:24:50.496Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
