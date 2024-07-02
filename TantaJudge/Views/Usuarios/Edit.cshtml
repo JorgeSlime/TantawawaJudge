@@ -5,48 +5,127 @@
     ViewData["Title"] = "Edit";
 }
 
-<h1>Edit</h1>
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-md-8 offset-md-2">
+            <h1 class="text-center">@ViewData["Title"]</h1>
 
-<h4>Usuario</h4>
-<hr />
-<div class="row">
-    <div class="col-md-4">
-        <form asp-action="Edit">
-            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <input type="hidden" asp-for="UsuarioId" />
-            <div class="form-group">
-                <label asp-for="Name" class="control-label"></label>
-                <input asp-for="Name" class="form-control" />
-                <span asp-validation-for="Name" class="text-danger"></span>
+            <div class="card">
+                <div class="card-header">
+                    <h4>Editar Usuario</h4>
+                </div>
+                <div class="card-body">
+                    <h4>Usuario</h4>
+                    <hr />
+                    <form asp-action="Edit">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <input type="hidden" asp-for="UsuarioId" />
+                        <div class="form-group">
+                            <label asp-for="Name" class="control-label">Nombre</label>
+                            <input asp-for="Name" class="form-control" />
+                            <span asp-validation-for="Name" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Email" class="control-label">Correo electrónico</label>
+                            <input asp-for="Email" class="form-control" />
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Password" class="control-label">Contraseña</label>
+                            <input asp-for="Password" class="form-control" type="password" />
+                            <span asp-validation-for="Password" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Rol" class="control-label">Rol</label>
+                            <select asp-for="Rol" class="form-control" asp-items="Html.GetEnumSelectList<RolEnum>()">
+                                <option value="">Seleccione un Rol</option>
+                            </select>
+                            <span asp-validation-for="Rol" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <button type="submit" class="btn btn-custom-primary">
+                                <i class="bi bi-save"></i> Guardar
+                            </button>
+                            <a asp-action="Index" class="btn btn-custom-secondary">
+                                <i class="bi bi-arrow-left"></i> Volver a la lista
+                            </a>
+                        </div>
+                    </form>
+                </div>
             </div>
-            <div class="form-group">
-                <label asp-for="Email" class="control-label"></label>
-                <input asp-for="Email" class="form-control" />
-                <span asp-validation-for="Email" class="text-danger"></span>
-            </div>
-            <div class="form-group">    
-                <label asp-for="Password" class="control-label"></label>
-                <input asp-for="Password" class="form-control" type = "password"/>
-                <span asp-validation-for="Password" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="Rol" class="control-label"></label>
-                <select asp-for="Rol" class="form-control" asp-items="Html.GetEnumSelectList<RolEnum>()">
-                    <option value = "">Seleccione un Rol</option>
-                </select>
-                <span asp-validation-for="Rol" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <input type="submit" value="Save" class="btn btn-primary" />
-            </div>
-        </form>
+        </div>
     </div>
 </div>
 
-<div>
-    <a asp-action="Index">Back to List</a>
-</div>
-
 @section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
 }
+
+<style>
+    .container {
+        background-color: #f8f9fa; /* Gris claro */
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    }
+
+    .card {
+        border: none;
+        border-radius: 10px;
+        box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    }
+
+    .card-header {
+        background-color: #007bff; /* Azul primario de Bootstrap */
+        color: #fff;
+        border-radius: 10px 10px 0 0;
+    }
+
+    .card-body {
+        background-color: #fff;
+    }
+
+    h1 {
+        color: #333;
+        font-weight: 400;
+    }
+
+    h4 {
+        color: #555;
+        font-weight: 400;
+    }
+
+    hr {
+        border-top: 1px solid #dee2e6;
+    }
+
+    .form-group {
+        margin-bottom: 1rem;
+    }
+
+    .btn-custom-primary {
+        background-color: #005bac;
+        border-color: #005bac;
+        color: #fff;
+    }
+
+        .btn-custom-primary:hover {
+            background-color: #005bac;
+            border-color: #005bac;
+        }
+
+    .btn-custom-secondary {
+        background-color: #6c757d;
+        border-color: #6c757d;
+        color: #fff;
+    }
+
+        .btn-custom-secondary:hover {
+            background-color: #545b62;
+            border-color: #4e555b;
+        }
+
+    .bi {
+        margin-right: 5px;
+    }
+</style>
