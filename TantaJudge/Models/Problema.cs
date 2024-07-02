@@ -8,5 +8,6 @@ public class Problema
     public int Dificultad { get; set; }
     public string? Descripcion { get; set; }
     public List<Comentario> Comentarios { get; set; } = new List<Comentario>();
+    public string Pdfpro { get; set; }
 }
 
