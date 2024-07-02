@@ -7,7 +7,7 @@ builder.Services.AddDbContext<MyContext>(options => {
     options.UseSqlite(builder.Configuration.GetConnectionString("CadenaConexion"));
 });
 var app = builder.Build();
-
+//comentario prueba
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
